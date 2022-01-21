@@ -35,6 +35,4 @@
   <img src="https://profile-counter.glitch.me/luckasexe/count.svg" />  
 </p>
 
-<!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/luckasexe/luckasexeE/blob/output/github-contribution-grid-snake.gif)
