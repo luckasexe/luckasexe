@@ -1,18 +1,21 @@
 ## Hello World! Eu sou Lucas Fernandes
+
 <div>
- <a href="https://www.github.com/lucasexe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasexe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasexe&layout=compact&langs_count=16&theme=dark"/>
+ <a href="https://www.github.com/luckasexe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckasexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckasexe&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
 ## My Skills
  
 <div>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
 </div>
  
 ##
@@ -29,7 +32,7 @@
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/lucasexe/count.svg" />  
+  <img src="https://profile-counter.glitch.me/luckasexe/count.svg" />  
 </p>
 
 <!-- github workflow  -->
