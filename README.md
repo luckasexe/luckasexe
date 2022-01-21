@@ -35,4 +35,6 @@
   <img src="https://profile-counter.glitch.me/luckasexe/count.svg" />  
 </p>
 
-![snake gif](https://github.com/luckasexe/luckasexeE/blob/output/github-contribution-grid-snake.gif)
+## Snake eating my contribution graph
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/luckasexe/luckasexe/output/github-contribution-grid-snake.svg)
