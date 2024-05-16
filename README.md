@@ -37,11 +37,3 @@
   <a href="https://www.linkedin.com/in/luckasexe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-## Visitas no pefil - Atividade
-
-<!-- visitors count  -->
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/luckasexe/count.svg" />  
-</p>
-
